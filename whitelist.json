@@ -1,9 +1,29 @@
 {
+  "version": 1,
   "tokens": [
-    "8748019211:AAFqwavItXxE4vtKbya-gEx4NSziTJ5Au2I",
-    "8952345821:AAH_gsGwMaVU9-k_7YuUyGa2Gfdp6JdbUD0",
-    "8999000388:AAGSgnzc_DzZiNWCppBbuXInp5vwLb4Dbm4",
-    "8817390704:AAE4ob7N7SRRPQUiqz5Imz9q1Wb2gnDJV4w",
-    "8846498856:AAFGkUlzTvsizF9Thji8TXqTp7k-OqFVFY8"
+    {
+      "hash": "db9e834f944995e574f99bfd7106098c7fd5e47e6a6194d80d5f82b654f6a322",
+      "active": true,
+      "added_by": "8721804610",
+      "added_at": 1792160329664
+    },
+    {
+      "hash": "32cc770870ae744acff36bb37c8fc48e76bc0792b0a3c8d0f0b910317f640323",
+      "active": true,
+      "added_by": "8721804610",
+      "added_at": 1792673249767
+    },
+    {
+      "hash": "104c66cd71ab4d66c519847dfd261a56381c5a939f921499cd49f5528ec11cd1",
+      "active": true,
+      "added_by": "8721804610",
+      "added_at": 1794577892784
+    },
+    {
+      "hash": "7012ec4bcad7918df43aac553787574cf9d6f20b0c996f99594b7cfce324965e",
+      "active": true,
+      "added_by": "1565901246",
+      "added_at": 1794661449486
+    }
   ]
 }
